@@ -9,7 +9,7 @@
 
 import * as PrivateTypes from './privateTypes';
 
-const REACHABILITY_URL = 'https://clients3.google.com/generate_204';
+const REACHABILITY_URL = 'https://dns.google/';
 const LONG_TIMEOUT = 60 * 1000; // 60s
 const SHORT_TIMEOUT = 5 * 1000; // 5s
 
